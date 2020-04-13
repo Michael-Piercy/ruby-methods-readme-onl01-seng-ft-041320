@@ -3,12 +3,6 @@ def greeting
 end
 
 greeting
-
-def greeting
-  puts "Hello World"
-end
-
-greeting
 greeting
 greeting
 greeting
